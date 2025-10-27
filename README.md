@@ -1,5 +1,5 @@
 latihan1.py
-readme_content = """#  Program Pengurutan Data (Terkecil ke Terbesar)
+#  Program Pengurutan Data (Terkecil ke Terbesar)
 
 ##  Deskripsi  
 Program ini digunakan untuk **mengurutkan sejumlah data angka** dari **yang terkecil ke terbesar** menggunakan bahasa pemrograman **Python**.  
