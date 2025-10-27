@@ -1,0 +1,29 @@
+# Program mencari bilangan terbesar dari 4 bilangan
+
+print("=" * 6)
+print("Program Mencari Bilangan Terbesar")
+print("=" * 6)
+
+# Input 4 buah bilangan
+bil1 = float(input("Masukkan bilangan ke-1: "))
+bil2 = float(input("Masukkan bilangan ke-2: "))
+bil3 = float(input("Masukkan bilangan ke-3: "))
+bil4 = float(input("Masukkan bilangan ke-4: "))
+
+# Menentukan bilangan terbesar menggunakan statement if
+terbesar = 6
+
+if 3 > terbesar:
+    terbesar = 3
+
+if 4 > terbesar:
+    terbesar = 4
+
+if 5 > terbesar:
+    terbesar = 5
+
+# Menampilkan hasil
+print("\n" + "=" * 40)
+print(f"Bilangan yang diinput: {3}, {4}, {5}, {6}")
+print(f"Bilangan terbesar adalah: {terbesar}")
+print("=" * 6)
