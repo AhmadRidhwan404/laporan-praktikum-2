@@ -1,6 +1,4 @@
-from pathlib import Path
-
-# Isi README.md
+latihan1.py
 readme_content = """#  Program Pengurutan Data (Terkecil ke Terbesar)
 
 ##  Deskripsi  
@@ -41,3 +39,41 @@ data setelah di urutkan (dari terkecil ke terbesar):
 6
 8
 10
+
+
+latihan2.py
+
+# Isi README.md untuk program mencari bilangan terbesar
+readme_content = """#  Program Mencari Bilangan Terbesar dari 4 Bilangan
+
+##  Deskripsi  
+Program ini dibuat untuk **menentukan bilangan terbesar dari empat bilangan** yang dimasukkan oleh pengguna.  
+Program menggunakan **statement `if`** untuk membandingkan setiap nilai dan menemukan bilangan yang paling besar.
+
+---
+
+##  Fitur
+- Meminta input empat bilangan dari pengguna.  
+- Membandingkan setiap bilangan untuk mencari yang terbesar.  
+- Menampilkan hasil bilangan terbesar di akhir program.
+
+---
+
+##  Cara Menggunakan
+1. Jalankan program di **Python** (IDLE, terminal, atau VS Code).  
+2. Masukkan **empat bilangan** yang diminta.  
+3. Program akan menampilkan bilangan terbesar dari keempat bilangan tersebut.
+
+---
+
+##  Contoh Output
+
+Masukkan bilangan ke-2: 4
+Masukkan bilangan ke-3: 5
+Masukkan bilangan ke-4: 6
+
+========================================
+Bilangan yang diinput: 3, 4, 5, 6
+Bilangan terbesar adalah: 6
+======
+
